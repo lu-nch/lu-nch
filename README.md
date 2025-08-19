@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Theme-Majora's%20Mask-7e22ce?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mode-Dark-111827?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&label=Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=lu-nch&style=for-the-badge&label=Visitors" />
 </p>
 
 ---
@@ -52,23 +52,23 @@
   <img
     alt="GitHub Stats"
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&bg_color=0d0b1f&icon_color=8b5cf6&ring_color=8b5cf6" />
+    src="https://github-readme-stats.vercel.app/api?username=lu-nch&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&bg_color=0d0b1f&icon_color=8b5cf6&ring_color=8b5cf6" />
 
   <!-- Streak -->
   <img
     alt="GitHub Streak"
     height="170"
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=true&background=0D0B1F" />
+    src="https://streak-stats.demolab.com?user=lu-nch&theme=tokyonight-duo&hide_border=true&background=0D0B1F" />
   
   <!-- Top Languages -->
   <img
     alt="Top Languages"
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d0b1f" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu-nch&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d0b1f" />
 
 </div>
 
 <p align="center">
   <img alt="Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d0b1f&color=c4b5fd&line=8b5cf6&point=a78bfa&area=true&hide_border=true" />
+       src="https://github-readme-activity-graph.vercel.app/graph?username=lu-nch&bg_color=0d0b1f&color=c4b5fd&line=8b5cf6&point=a78bfa&area=true&hide_border=true" />
 </p>
