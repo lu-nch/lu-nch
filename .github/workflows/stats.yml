@@ -10,10 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Checkout the repo
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      # Generate GitHub Stats
+      # GitHub Stats
       - name: Generate GitHub Stats
         uses: anuraghazra/github-readme-stats@master
         with:
@@ -30,7 +29,7 @@ jobs:
           count_private: true
           output: stats/github-stats.svg
 
-      # Generate GitHub Streak
+      # GitHub Streak
       - name: Generate GitHub Streak
         uses: ludeeus/streak-stats@v1
         with:
@@ -45,7 +44,7 @@ jobs:
           dates: 9ca3af
           output: stats/github-streak.svg
 
-      # Generate Top Languages
+      # Top Languages
       - name: Generate Top Languages
         uses: anuraghazra/github-readme-stats@master
         with:
@@ -60,7 +59,7 @@ jobs:
           count_private: true
           output: stats/top-langs.svg
 
-      # Generate Activity Graph
+      # Activity Graph
       - name: Generate Activity Graph
         uses: platane/snk@v1
         with:
@@ -74,11 +73,11 @@ jobs:
           hide_border: true
           output: stats/activity-graph.svg
 
-      # Commit the stats images
-      - name: Commit and push stats
+      # Commit and push
+      - name: Commit stats
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
           git add stats/
-          git commit -m "Update GitHub stats"
+          git commit -m "Update GitHub stats" || echo "No changes to commit"
           git push
