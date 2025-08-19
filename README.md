@@ -23,28 +23,17 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img
-    alt="GitHub Stats"
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=lu-nch&show_icons=true&hide_title=true&hide_border=true&theme=dark&bg_color=0d0b1f&icon_color=ef4444&ring_color=b91c1c&text_color=ffffff&title_color=dc2626&count_private=true" />
+  <img alt="GitHub Stats" height="170" src="stats/github-stats.svg" />
 
   <!-- GitHub Streak -->
-  <img
-    alt="GitHub Streak"
-    height="170"
-    src="https://streak-stats.demolab.com?user=lu-nch&theme=dark&hide_border=true&background=0D0B1F&ring=dc2626&fire=ef4444&currStreakLabel=dc2626&sideNums=ef4444&sideLabels=ffffff&dates=9ca3af" />
+  <img alt="GitHub Streak" height="170" src="stats/github-streak.svg" />
 
   <!-- Top Languages -->
-  <img
-    alt="Top Languages"
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu-nch&layout=compact&hide_border=true&theme=dark&bg_color=0d0b1f&title_color=dc2626&text_color=ffffff&count_private=true" />
+  <img alt="Top Languages" height="170" src="stats/top-langs.svg" />
 
 </div>
 
 <p align="center">
   <!-- Activity Graph -->
-  <img
-    alt="Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=lu-nch&bg_color=0d0b1f&color=ef4444&line=dc2626&point=b91c1c&area=true&area_color=7f1d1d&hide_border=true" />
+  <img alt="Activity Graph" src="stats/activity-graph.svg" />
 </p>
