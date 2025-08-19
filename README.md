@@ -24,7 +24,7 @@
 
   <!-- GitHub Stats -->
   <img alt="GitHub Stats" height="170"
-    src="https://github-readme-stats.vercel.app/api?username=lu-nch&show_icons=true&hide_title=true&hide_border=true&theme=dark&bg_color=0d0b1f&icon_color=ef4444&ring_color=b91c1c&text_color=ffffff&title_color=dc2626&count_private=true&hide=prs,issues" />
+    src="https://github-readme-stats.vercel.app/api?username=lu-nch&show_icons=true&hide_title=true&hide_border=true&theme=dark&bg_color=0d0b1f&icon_color=ef4444&ring_color=b91c1c&text_color=ffffff&title_color=dc2626&count_private=true" />
 
   <!-- Top Languages -->
   <img alt="Top Languages" height="170"
