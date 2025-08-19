@@ -9,38 +9,13 @@
 ---
 
 <p align="center">
-  
-  <img alt="Node.js" title="Node.js"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" />
-  &nbsp;&nbsp;
-  
-  
-  <img alt="Python" title="Python"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" />
-  &nbsp;&nbsp;
-  
-  
-  <img alt="C" title="C"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" />
-  &nbsp;&nbsp;
-  
-  
-  <img alt="HTML5" title="HTML5"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" />
-  &nbsp;&nbsp;
-  
-  <img alt="CSS3" title="CSS3"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" />
-  &nbsp;&nbsp;
-  
-  
-  <img alt="JavaScript" title="JavaScript"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" />
-  &nbsp;&nbsp;
-  
-  
-  <img alt="macOS" title="macOS"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="48" />
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" />
+  <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" />
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" />
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" />
+  <img alt="macOS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="48" />
 </p>
 
 ---
