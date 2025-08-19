@@ -9,11 +9,9 @@ jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
-      # Checkout the repo
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Set up Node.js (required for github-readme-stats)
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
@@ -22,6 +20,7 @@ jobs:
       # Generate GitHub Stats with private repos
       - name: Generate GitHub Stats
         run: |
+          mkdir -p stats
           curl -o stats/github-stats.svg "https://github-readme-stats.vercel.app/api?username=lu-nch&show_icons=true&hide_title=true&hide_border=true&theme=dark&bg_color=0d0b1f&icon_color=ef4444&ring_color=b91c1c&text_color=ffffff&title_color=dc2626&count_private=true&token=${{ secrets.PAT_1 }}"
 
       # Generate Top Languages
