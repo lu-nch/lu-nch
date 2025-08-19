@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- Optional banner (replace src with your own image or remove this line) -->
+  
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.steamgriddb.com%2Fhero_thumb%2F25fa2d39a0143f1f30c36eece145a526.jpg&f=1&nofb=1&ipt=d845acb459900850cd1ec9e09ca97d2078e3b7521a5362ed7d6387170092b21d" alt="Majora's Mask Banner" width="100%" />
 </p>
 
@@ -15,19 +15,19 @@
 
 
 <p align="center">
-  <!-- Node.js -->
+  
   <img alt="Node.js" title="Node.js"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" />
   &nbsp;&nbsp;
-  <!-- Python -->
+  
   <img alt="Python" title="Python"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" />
   &nbsp;&nbsp;
-  <!-- C -->
+  
   <img alt="C" title="C"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" />
   &nbsp;&nbsp;
-  <!-- Tailwind CSS -->
+  
   <img alt="Tailwind CSS" title="Tailwind CSS"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="48" />
   &nbsp;&nbsp;
